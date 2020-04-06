@@ -7,6 +7,6 @@ Reverse engineering of the Tesla Model 3 battery bms control
 PCB files in DesignSpark PCB 9 format. Also included CPL and BOM files for use at https://jlcpcb.com/
 
 06/04/20 : Added some logic analyser captures for hvcon batman while connected to one of 3 battery modules.
- The unknown pin on the header comes to life when connected to a slave module.
+ The unknown pin on the header comes to life when connected to a slave module. Log files taken with a Digilent Analog Discovery 2 and Saleae Logic.
 
 Also uploaded scope captures taken on a HV controller on its own.

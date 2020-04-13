@@ -10,3 +10,5 @@ PCB files in DesignSpark PCB 9 format. Also included CPL and BOM files for use a
  The unknown pin on the header comes to life when connected to a slave module. Log files taken with a Digilent Analog Discovery 2 and Saleae Logic.
 
 Also uploaded scope captures taken on a HV controller on its own.
+
+13/04/20 : Experimented with an LTC6820 IC. Uploaded new scope captures. Short version : The Tesla version of ISO-SPI uses chip select and data pulses with widths far outside of the spec for the LTC6820 so off the shelf LTC hardware will not work with Tesla Model 3 battery modules.

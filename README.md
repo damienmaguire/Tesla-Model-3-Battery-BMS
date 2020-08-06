@@ -14,3 +14,8 @@ Also uploaded scope captures taken on a HV controller on its own.
 13/04/20 : Experimented with an LTC6820 IC. Uploaded new scope captures. Short version : The Tesla version of ISO-SPI uses chip select and data pulses with widths far outside of the spec for the LTC6820 so off the shelf LTC hardware will not work with Tesla Model 3 battery modules.
 
 14/04/20 : Analog front end circuit works. We can now translate Musk-spi into 3.3v pulses ready to feed into an fpga or micro for decoding into data.
+
+06/08/20 : Now sending and receiving to one slave using the Tesla "Batman" chip. Details on Openinverter forum :<br>
+https://openinverter.org/forum/viewtopic.php?f=10&t=577&p=14979#p14979
+
+Uploaded captures.

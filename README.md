@@ -18,4 +18,6 @@ Also uploaded scope captures taken on a HV controller on its own.
 06/08/20 : Now sending and receiving to one slave using the Tesla "Batman" chip. Details on Openinverter forum :<br>
 https://openinverter.org/forum/viewtopic.php?f=10&t=577&p=14979#p14979
 
+
+02/09/20 : Communicating with full pack using "batman". Also uploaded initial batman chip pinout.
 Uploaded captures.

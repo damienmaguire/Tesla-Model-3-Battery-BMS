@@ -24,3 +24,8 @@ Uploaded captures.
 
 11/10/20 : Batman board now fully opensourced. 
 Demo : https://www.youtube.com/watch?v=iv_-qdLMsMA
+
+
+16/10/20 : In the hopes of encouraging colaboration and furthering the effort, I have released the full sources for an FPGA based Model 3 Iso-Spi decoder. At this time it works in receive only and does have some glitches. FPGA used is a Xilinx Spartan 6 at 50MHz. Design done using Xilinx ISE. Also includes BOM and placement file for JLCPCB.
+
+To Do : Clean up receive and implement transmit and debug.

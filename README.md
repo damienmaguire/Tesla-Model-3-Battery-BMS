@@ -29,3 +29,5 @@ Demo : https://www.youtube.com/watch?v=iv_-qdLMsMA
 16/10/20 : In the hopes of encouraging colaboration and furthering the effort, I have released the full sources for an FPGA based Model 3 Iso-Spi decoder. At this time it works in receive only and does have some glitches. FPGA used is a Xilinx Spartan 6 at 50MHz. Design done using Xilinx ISE. Also includes BOM and placement file for JLCPCB.
 
 To Do : Clean up receive and implement transmit and debug.
+
+17/06/23 : Almost 3 years later and still no sign of a solution for talking to the M3 BMS? Oh well, just as well I've done a new STM32 based design. Prototypes on the way so let's see if (how) I screwed up ...

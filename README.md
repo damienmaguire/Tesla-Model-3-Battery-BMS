@@ -33,3 +33,5 @@ To Do : Clean up receive and implement transmit and debug.
 17/06/23 : Almost 3 years later and still no sign of a solution for talking to the M3 BMS? Oh well, just as well I've done a new STM32 based design. Prototypes on the way so let's see if (how) I screwed up ...
 
 12/10/23 : And it works. Software development started for the controller here : https://github.com/damienmaguire/Tesla-M3-Bms-Software
+
+24/10/23 : Boards now with beta testers. Pinout added for V1 controller. SW development in progress.
